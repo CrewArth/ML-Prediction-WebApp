@@ -1,5 +1,8 @@
 # ML-Prediction-WebApp
 
+This application allows users to upload a dataset and receive predictions using a pretrained machine learning model.
+
+
 Steps to install Web Application on your Device.
 ## Install Dependencies
 ```bash 
