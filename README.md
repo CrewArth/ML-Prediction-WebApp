@@ -3,7 +3,10 @@
 This application allows users to upload a dataset and receive predictions using a pretrained machine learning model.
 
 
-Steps to install Web Application on your Device.
+## Setup
+
+**Clone the repository** and navigate to the project directory.
+
 ## Install Dependencies
 ```bash 
 pip install -r requirements.txt
